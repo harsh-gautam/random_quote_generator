@@ -1,3 +1,9 @@
+# Random Quote Generator
+
+### A simple react app that displays randoms quotes
+### The api used to get random quotes can be found [her](https://github.com/lukePeavey/quotable)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
